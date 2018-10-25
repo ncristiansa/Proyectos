@@ -1,0 +1,12 @@
+manolo.jpg:gafas si , cabello castany , sexo hombre
+jorge.jpg:gafas si , cabello moreno , sexo hombre
+rafa.jpg:gafas si , cabello rubio , sexo hombre
+lucas.jpg:gafas no , cabello castany , sexo hombre
+antonio.jpg:gafas no , cabello moreno , sexo hombre
+pablo.jpg:gafas no , cabello rubio , sexo hombre
+noelia.jpg:gafas si , cabello castany , sexo mujer
+irene.jpg:gafas si , cabello moreno , sexo mujer
+alba.jpg:gafas si , cabello rubio , sexo mujer
+paula.jpg:gafas no , cabello castany , sexo mujer
+cristina.jpg:gafas no , cabello moreno , sexo mujer
+julia.jpg:gafas no , cabello rubio , sexo mujer

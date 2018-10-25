@@ -1,0 +1,3 @@
+gafas:si no
+cabello:rubio moreno castany
+sexo:mujer hombre
